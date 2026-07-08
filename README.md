@@ -321,3 +321,361 @@ Implementing a structured Marketing Operating System can help organizations:
 > **Note**
 >
 > GrowthPilot Marketing OS is a portfolio project created to demonstrate modern Marketing Operations, AI-assisted workflows, campaign management and business documentation practices. The workflows, dashboards and assets are intended for educational and portfolio purposes while following realistic startup operating principles.
+
+---
+
+# 🏗 System Architecture
+
+GrowthPilot Marketing OS is designed as a modular Marketing Operations framework where every business function is documented, measurable, and scalable.
+
+The architecture separates business documentation, campaign execution, CRM, analytics, automation, and AI-assisted research into reusable modules.
+
+```text
+                    GrowthPilot Marketing OS
+
+                           Users
+
+      ┌──────────────┬──────────────┬──────────────┐
+      │              │              │              │
+Marketing Team   Sales Team    Leadership    Operations
+      │              │              │              │
+      └──────────────┴──────────────┴──────────────┘
+                           │
+                           ▼
+                 Marketing Operations Hub
+                           │
+ ┌──────────┬────────────┬────────────┬────────────┐
+ │          │            │            │            │
+Notion   Airtable    HubSpot      GA4      Looker Studio
+ │          │            │            │            │
+ └──────────┴────────────┴────────────┴────────────┘
+                           │
+                           ▼
+                  Zapier / Make Automation
+                           │
+                           ▼
+                     AI Assistants
+       ChatGPT • Claude • Gemini • NotebookLM
+```
+
+---
+
+# 📂 Repository Structure
+
+```text
+growthpilot-marketing-os/
+
+│
+
+├── README.md
+
+├── LICENSE
+
+├── CHANGELOG.md
+
+├── ROADMAP.md
+
+├── docs/
+
+├── architecture/
+
+├── campaigns/
+
+├── dashboards/
+
+├── notion/
+
+├── ai/
+
+├── research/
+
+├── sop/
+
+├── templates/
+
+├── demo/
+
+└── assets/
+```
+
+Every directory represents one functional area of a modern Marketing Operations team.
+
+---
+
+# 🛠 Technology Stack
+
+| Category | Platform | Purpose |
+|----------|----------|---------|
+| Documentation | Notion | Knowledge base, campaign planning, SOPs |
+| CRM | HubSpot | Contact management and sales pipeline (reference design) |
+| Database | Airtable | Marketing database and structured records |
+| Automation | Zapier | Workflow automation (planned implementation) |
+| Automation | Make | Multi-step workflow orchestration (planned implementation) |
+| Analytics | GA4 | Website and campaign analytics |
+| Dashboard | Looker Studio | Executive reporting |
+| AI | ChatGPT | Research, documentation, ideation |
+| AI | Claude | Long-form writing and analysis |
+| AI | Gemini | Workspace productivity |
+| AI | NotebookLM | Knowledge synthesis |
+| Data | Google Sheets | Working datasets and reporting |
+| Version Control | Git & GitHub | Documentation and portfolio management |
+
+---
+
+# 🎯 Why This Stack?
+
+The tools selected represent commonly used platforms in modern SaaS startups.
+
+Together they support:
+
+- campaign planning
+- documentation
+- CRM
+- reporting
+- stakeholder management
+- automation
+- AI-assisted research
+- executive dashboards
+
+The objective is to reduce manual work while improving visibility across marketing operations.
+
+---
+
+# 🔄 Marketing Operations Workflow
+
+```text
+Business Goal
+
+↓
+
+Market Research
+
+↓
+
+Customer Research
+
+↓
+
+Competitor Analysis
+
+↓
+
+Campaign Planning
+
+↓
+
+Content Creation
+
+↓
+
+Campaign Launch
+
+↓
+
+Performance Tracking
+
+↓
+
+Reporting
+
+↓
+
+Optimization
+
+↓
+
+Knowledge Repository
+
+↓
+
+Future Campaign Planning
+```
+
+Every completed campaign contributes new insights back into the documentation library, enabling continuous improvement.
+
+---
+
+# 📊 Information Flow
+
+```text
+Research
+
+↓
+
+Marketing Strategy
+
+↓
+
+Campaign Planning
+
+↓
+
+Execution
+
+↓
+
+Analytics
+
+↓
+
+Reporting
+
+↓
+
+Decision Making
+
+↓
+
+Documentation
+
+↓
+
+Future Planning
+```
+
+This approach ensures decisions are informed by both historical performance and current campaign data.
+
+---
+
+# 🤖 AI Workflow Reference
+
+AI tools support—not replace—the marketing workflow.
+
+Example activities include:
+
+- generating campaign ideas
+- drafting marketing copy
+- summarizing research
+- organizing meeting notes
+- identifying competitor trends
+- creating customer personas
+- refining messaging
+- documenting SOPs
+
+Human review remains essential before publication or implementation.
+
+---
+
+# 🔗 Planned Tool Integration
+
+The following diagram represents the intended interaction between systems as the portfolio evolves.
+
+```text
+Notion
+│
+├── Campaign Planning
+├── Knowledge Base
+├── SOP Library
+└── Meeting Notes
+        │
+        ▼
+Airtable
+│
+├── Marketing Database
+├── Campaign Tracker
+└── Content Calendar
+        │
+        ▼
+HubSpot
+│
+├── Contacts
+├── Companies
+├── Deals
+└── Lifecycle Stages
+        │
+        ▼
+Zapier / Make
+│
+├── Notifications
+├── Task Creation
+├── Data Sync
+└── Workflow Automation
+        │
+        ▼
+GA4
+│
+├── Website Traffic
+├── Campaign Performance
+└── User Behaviour
+        │
+        ▼
+Looker Studio
+│
+├── Executive Dashboard
+├── Weekly Reports
+└── Marketing KPIs
+```
+
+---
+
+# 📈 Marketing Lifecycle
+
+```mermaid
+flowchart LR
+
+A[Market Research]
+--> B[Customer Research]
+
+B --> C[Campaign Planning]
+
+C --> D[Content Creation]
+
+D --> E[Campaign Launch]
+
+E --> F[Campaign Analytics]
+
+F --> G[Executive Reporting]
+
+G --> H[Optimization]
+
+H --> I[Knowledge Repository]
+
+I --> A
+```
+
+---
+
+# 🤖 AI Research Lifecycle
+
+```mermaid
+flowchart TD
+
+A[Business Problem]
+
+--> B[Prompt Engineering]
+
+B --> C[AI Research]
+
+C --> D[Human Validation]
+
+D --> E[Documentation]
+
+E --> F[Knowledge Base]
+
+F --> G[Campaign Planning]
+
+G --> H[Execution]
+
+H --> I[Performance Review]
+
+I --> A
+```
+
+---
+
+# 📌 Design Principles
+
+GrowthPilot Marketing OS follows several core principles:
+
+- Documentation before execution
+- Standardized workflows
+- Reusable templates
+- AI-assisted research
+- Data-informed decisions
+- Continuous improvement
+- Cross-functional collaboration
+- Knowledge sharing
+- Transparent reporting
+- Scalable processes
+
+These principles guide every document, template, SOP, and workflow contained within this repository.
