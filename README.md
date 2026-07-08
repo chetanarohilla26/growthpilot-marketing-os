@@ -679,3 +679,329 @@ GrowthPilot Marketing OS follows several core principles:
 - Scalable processes
 
 These principles guide every document, template, SOP, and workflow contained within this repository.
+
+---
+
+# 📈 Success Metrics & KPIs
+
+GrowthPilot Marketing OS is designed around measurable operational outcomes rather than feature delivery alone.
+
+## Marketing Operations KPIs
+
+| Category | Example KPI |
+|-----------|-------------|
+| Campaign Execution | Campaigns launched on schedule (%) |
+| Documentation | SOP completion rate |
+| Content Operations | Content production cycle time |
+| Team Collaboration | Tasks completed on time |
+| Marketing Planning | Campaign planning lead time |
+| Knowledge Management | Documentation coverage |
+
+---
+
+## Growth Marketing KPIs
+
+| Category | Example KPI |
+|-----------|-------------|
+| Website | Sessions |
+| Engagement | Engagement Rate |
+| Conversion | Conversion Rate |
+| Acquisition | Cost per Lead (CPL) |
+| Paid Marketing | Return on Ad Spend (ROAS) |
+| Lead Generation | Marketing Qualified Leads (MQLs) |
+| Pipeline | Sales Qualified Leads (SQLs) |
+
+---
+
+## CRM KPIs
+
+| Category | Example KPI |
+|-----------|-------------|
+| Lead Management | New Leads |
+| Sales | Opportunity Conversion Rate |
+| Customer Journey | Lead Response Time |
+| CRM Hygiene | Contact Completion Rate |
+| Lifecycle | Stage Conversion Rate |
+
+---
+
+## Executive Dashboard KPIs
+
+- Website Traffic
+- Lead Generation
+- Campaign Performance
+- Marketing ROI
+- Conversion Funnel
+- Customer Acquisition Cost (CAC)
+- Customer Lifetime Value (LTV)
+- Monthly Qualified Leads
+- Sales Pipeline Value
+- Marketing Efficiency Ratio
+
+---
+
+# 💼 Expected Business Impact
+
+When fully implemented, the operating system is intended to help marketing teams:
+
+- Standardize campaign planning
+- Reduce repetitive manual work
+- Improve visibility across marketing activities
+- Create reusable documentation
+- Improve collaboration across teams
+- Centralize business knowledge
+- Increase reporting consistency
+- Support data-informed decision making
+- Enable scalable marketing operations
+- Improve onboarding for new team members
+
+---
+
+# 📊 Example Workflow
+
+```text
+Business Objective
+
+↓
+
+Market Research
+
+↓
+
+Customer Personas
+
+↓
+
+Campaign Strategy
+
+↓
+
+Content Planning
+
+↓
+
+Campaign Execution
+
+↓
+
+CRM Tracking
+
+↓
+
+Performance Analytics
+
+↓
+
+Executive Dashboard
+
+↓
+
+Optimization
+
+↓
+
+Knowledge Repository
+
+↓
+
+Next Campaign
+```
+
+---
+
+# 📷 Screenshots
+
+> Screenshots will be added as each module is completed.
+
+## Planned Gallery
+
+- Marketing Dashboard
+- Campaign Tracker
+- Notion Workspace
+- Airtable CRM
+- HubSpot Pipeline
+- AI Research Workspace
+- Looker Studio Dashboard
+- SOP Library
+- Content Calendar
+- Executive Dashboard
+
+Example folder:
+
+```text
+assets/
+
+└── screenshots/
+
+    ├── dashboard.png
+
+    ├── notion-home.png
+
+    ├── airtable-crm.png
+
+    ├── hubspot-pipeline.png
+
+    ├── ga4-dashboard.png
+
+    └── looker-dashboard.png
+```
+
+---
+
+# 🎥 Demo
+
+A walkthrough video will demonstrate:
+
+- Repository overview
+- Folder structure
+- Marketing workspace
+- Campaign planning
+- CRM workflow
+- Analytics dashboards
+- AI-assisted research
+- Documentation process
+- Automation examples
+- End-to-end marketing operations
+
+Recommended duration:
+
+**5–8 minutes**
+
+---
+
+# 📚 Documentation
+
+The repository includes detailed documentation covering:
+
+- Business Context
+- Market Research
+- Competitor Analysis
+- Customer Personas
+- Campaign Planning
+- SOPs
+- Templates
+- AI Prompt Library
+- Reporting Framework
+- Marketing Architecture
+- Decision Logs
+- Knowledge Base
+
+---
+
+# 🛣️ Roadmap
+
+## Version 1.0
+
+- Repository setup
+- Documentation
+- Folder structure
+- Campaign framework
+- SOPs
+- Templates
+
+---
+
+## Version 1.1
+
+- Notion workspace
+- Airtable database
+- CRM structure
+- AI prompt library
+
+---
+
+## Version 1.2
+
+- HubSpot pipeline
+- Marketing automation examples
+- Dashboard templates
+
+---
+
+## Version 1.3
+
+- GA4 reporting
+- Looker Studio dashboards
+- Executive reporting
+
+---
+
+## Version 2.0
+
+- End-to-end workflow demonstrations
+- Interactive dashboard examples
+- Public portfolio website
+- Video walkthroughs
+- Additional case studies
+
+---
+
+# 🤝 Contributing
+
+This repository is currently maintained as a personal portfolio project.
+
+Suggestions for improving documentation, workflows, templates, and best practices are welcome.
+
+Please open an Issue or submit a Pull Request.
+
+---
+
+# 📄 License
+
+This repository is released under the MIT License.
+
+See the `LICENSE` file for details.
+
+---
+
+# 👩‍💼 About the Author
+
+**Chetana Rohilla**
+
+MBA — Indian Institute of Management (IIM) Rohtak
+
+Areas of Interest:
+
+- Marketing Operations
+- Growth Strategy
+- Product Operations
+- Business Operations
+- Program Management
+- AI Workflow Automation
+- Marketing Analytics
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+chetanarohilla26@gmail.com
+
+💼 LinkedIn
+
+*https://www.linkedin.com/in/chetana-rohilla-50ba53240/*
+
+💻 GitHub
+
+*https://github.com/chetanarohilla26/*
+
+---
+
+# ⭐ Support
+
+If you found this repository useful, consider starring it.
+
+Feedback, suggestions, and discussions are always welcome.
+
+---
+
+<div align="center">
+
+## Thank you for visiting GrowthPilot Marketing OS
+
+Building scalable business systems through documentation, analytics, automation, and AI-powered workflows.
+
+**Happy Building! 🚀**
+
+</div>
